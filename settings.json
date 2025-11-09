@@ -1,0 +1,71 @@
+{
+  "camera_index": 0,
+  "camera_uid": "USB\\VID_145F&PID_02AA&MI_00\\8&1D097E73&2&0000",
+  "resolution": "640x480",
+  "known_resolutions": {
+    "USB\\VID_145F&PID_02AA&MI_00\\8&1D097E73&2&0000": [
+      "1920x1080",
+      "1280x720",
+      "1024x768",
+      "800x600",
+      "640x480",
+      "320x240"
+    ],
+    "USB\\VID_045E&PID_0779&MI_00\\8&1B6AB699&0&0000": [
+      "1280x720",
+      "800x600",
+      "640x480",
+      "320x240"
+    ]
+  },
+  "cameras": [
+    {
+      "index": 0,
+      "uid": "USB\\VID_145F&PID_02AA&MI_00\\8&1D097E73&2&0000",
+      "name": "FHD Webcam",
+      "available": true,
+      "manual_focus": true
+    },
+    {
+      "index": 1,
+      "uid": "USB\\VID_045E&PID_0779&MI_00\\8&1B6AB699&0&0000",
+      "name": "MicrosoftR LifeCam HD-3000",
+      "available": true,
+      "manual_focus": false
+    },
+    {
+      "index": 2,
+      "uid": "USB\\VID_18D1&PID_4EED&MI_00\\8&2E36D3F&1&0000",
+      "name": "Android Webcam",
+      "available": false,
+      "manual_focus": false
+    }
+  ],
+  "brightness": 0,
+  "contrast": 1.0,
+  "mirror": false,
+  "rotate": 0,
+  "zoom": 1.0,
+  "autofocus": true,
+  "focus_value": 140,
+  "camera_adjustments": {
+    "USB\\VID_145F&PID_02AA&MI_00\\8&1D097E73&2&0000": {
+      "brightness": 0,
+      "contrast": 1.0,
+      "mirror": false,
+      "rotate": 0,
+      "zoom": 1.0,
+      "autofocus": true,
+      "focus_value": 140
+    },
+    "USB\\VID_045E&PID_0779&MI_00\\8&1B6AB699&0&0000": {
+      "brightness": 0,
+      "contrast": 1.0,
+      "mirror": false,
+      "rotate": 0,
+      "zoom": 1.0,
+      "autofocus": false,
+      "focus_value": 202
+    }
+  }
+}
